@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ege</h1>
-<h3 align="center">I'm a passionate Data Enthusiast from Berlin.</h3>
+<h3 align="center">I'm a passionate data enthusiast from Berlin.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Do you want to take a look at what I write?: **[Medium Profile](https://medium.com/@egeatmaca98)**
+- 👨‍💻 Do you want to take a look at what I write about data?: **[Medium Profile](https://medium.com/@egeatmaca98)**
 
 ## 🚀 Languages and Tools:
 
