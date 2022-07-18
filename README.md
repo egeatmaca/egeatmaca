@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[Activity Detection](https://github.com/egeatmaca/activity-detection)**
 
-- 🌱 I’m currently learning **Object Detection and Pose Estimation**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
