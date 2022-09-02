@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Activity Detection](https://github.com/egeatmaca/activity-detection)**
+- 🔭 I’m currently working on **[Self-Optimizing Websites](http://144.126.246.226:17995/)**
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
