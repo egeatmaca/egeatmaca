@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 Do you want to take a look at what I write about data?: **[Medium Profile](https://medium.com/@egeatmaca98)**
+- 👨‍💻 Do you want to take a look at what I write about data?: **[Medium Profile](https://medium.com/@egeatmaca)**
 
 ## 🚀 Languages and Tools:
 
