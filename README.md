@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Self-Optimizing Web Pages](http://144.126.246.226:5002/)**
+- 🔭 I’m currently working on **[Intelligent User Experiences](http://144.126.246.226:5002/)**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
