@@ -21,7 +21,7 @@
     <a href="https://spark.apache.org/" target="_blank"> <img src="https://apache.org/logos/res/spark/spark.png" alt="spark" height="48"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>    
-    <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-anything-but-the-simplest-of-web-applications-requires-a-database-to-store-and-serve-content-from-choosing-the-right-database-and-structuring-413.png" width="72" height="48"/> </a>
+    <a style="padding-right:8px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-anything-but-the-simplest-of-web-applications-requires-a-database-to-store-and-serve-content-from-choosing-the-right-database-and-structuring-413.png" width="60" height="48"/> </a>
     <a style="padding-right:8px;" href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png"alt="sklearn" width="72" height="48"/> </a>
     
     
