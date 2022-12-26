@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Intelligent User Experiences](http://neuralux.live/)**
+- 🔭 I’m currently working on **[Analyzing public opinions using NLP](https://github.com/egeatmaca/public_voices)**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
