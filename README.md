@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Analyzing Public Opinions using NLP](https://github.com/egeatmaca/public_voices)**
+- 🔭 I’m currently working on **[a Chatbot for Tenancy Law](https://github.com/egeatmaca/legalpha)**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
