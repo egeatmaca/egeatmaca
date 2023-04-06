@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[a Chatbot for Tenancy Law](https://github.com/egeatmaca/legalpha)**
+- 🔭 I’m currently working on **[PricePeek](https://github.com/egeatmaca/PricePeek)**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 
