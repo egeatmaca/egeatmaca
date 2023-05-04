@@ -4,9 +4,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[PricePeek](https://github.com/egeatmaca/PricePeek)**
+- 🔭 I’m currently working on **[AskTheDB - Query your DB in natural language](https://github.com/egeatmaca/AskTheDB)**
 
-- 🌱 I’m currently learning **Reinforcement Learning**
+- 🌱 I’m currently learning **Transformers**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
