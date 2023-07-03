@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate data enthusiast from Berlin.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋 About Me
 
 - 🔭 I’m currently working on **[a Chatbot for Tenancy Law](https://github.com/egeatmaca/Legalpha)**
 
