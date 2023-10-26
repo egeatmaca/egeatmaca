@@ -4,7 +4,7 @@
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **[a Chatbot for Tenancy Law](https://github.com/egeatmaca/Legalpha)**
+- 🔭 I’m currently working on **[an AI Assistan for Law](https://github.com/egeatmaca/CaseBlaze)**
 
 - 🌱 I’m currently learning **Transformers**
 
