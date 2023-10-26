@@ -4,7 +4,7 @@
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **[an AI Assistan for Law](https://github.com/egeatmaca/CaseBlaze)**
+- 🔭 I’m currently working on **[an AI Assistant for Law](https://github.com/egeatmaca/CaseBlaze)**
 
 - 🌱 I’m currently learning **Transformers**
 
