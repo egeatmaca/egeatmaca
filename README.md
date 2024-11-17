@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[an AI Assistant for Law](https://github.com/egeatmaca/CaseBlaze)**
 
-- 🌱 I’m currently learning **Transformers**
+- 🌱 I’m currently learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
