@@ -4,9 +4,9 @@
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **[an AI Assistant for Law](https://github.com/egeatmaca/CaseBlaze)**
+- 🔭 I’m currently working on **[Stock Price Prediction using Transformers](https://github.com/egeatmaca/stock_price_prediction)**
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Transformers**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
