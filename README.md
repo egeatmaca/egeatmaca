@@ -4,7 +4,7 @@
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **[Stock Price Prediction using Transformers](https://github.com/egeatmaca/stock_price_prediction)**
+- 🔭 I’m currently working on **[Stock Price Prediction with Transformers](https://github.com/egeatmaca/stock_price_prediction)**
 
 - 🌱 I’m currently learning **Transformers**
 
