@@ -4,7 +4,7 @@
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **Stock Price Prediction with Transformers**
+- 🔭 I’m currently working on **[an Ecommerce Dashboard powered by Customer Segmentation](https://github.com/egeatmaca/ecommerce_dashboard)**
 
 - 🌱 I’m currently learning **Transformers**
 
