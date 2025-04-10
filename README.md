@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on an **[Ecommerce Dashboard with Customer Segmentation](https://github.com/egeatmaca/ecommerce_dashboard)**
 
-- 🌱 I’m currently learning **Transformers**
+- 🌱 I’m currently learning **Explainable AI**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
