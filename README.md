@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **[High-Dim Customer Segmentation for Ecommerce](https://github.com/egeatmaca/ecommerce_dashboard)**
 
-- 🌱 I’m currently learning **Explainable AI**
+- 🌱 I’m currently learning **XAI & LRP**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
