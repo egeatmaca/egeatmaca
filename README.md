@@ -4,7 +4,7 @@
 
 ## 🙋 About Me
 
-- 🔭 I’m currently working on **[High-Dim Customer Segmentation for Ecommerce](https://github.com/egeatmaca/ecommerce_dashboard)**
+- 🔭 I’m currently working on **[Customer Segmentation for Ecommerce](https://github.com/egeatmaca/ecommerce_dashboard)**
 
 - 🌱 I’m currently learning **XAI & LRP**
 
